@@ -1,6 +1,9 @@
-# cawsay
-this is a simple script in Python3, in this script you can give a text as argement to the script and the caw read it.
+# Cowsay
+  This is a simple script in Python3 named Cowsay; the script is a cow that says what you give it as argument.
 # Usage
-> python3 cawsay.py 1337 Future Is Loading...
+  $> python3 cawsay.py <text>
+  $> Example:
+  $> python3 cawsay.py 1337 Future Is Loading...
 
-![alt text](https://i.imgur.com/DHKxAOZ.png)
+# Demo
+  >![alt text](https://i.imgur.com/DHKxAOZ.png)
