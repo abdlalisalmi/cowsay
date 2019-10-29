@@ -4,7 +4,7 @@
 ``` shell
   $> python3 cawsay.py <text>
 ```
-  ### Example:</br>
+  #### Example:</br>
 ``` shell
   $> python3 cawsay.py 1337 Future Is Loading...
 ```
